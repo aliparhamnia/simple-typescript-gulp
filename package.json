@@ -1,0 +1,29 @@
+{
+  "name": "simple-typescript-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliparhamnia/simple-typescript-gulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliparhamnia/simple-typescript-gulp/issues"
+  },
+  "homepage": "https://github.com/aliparhamnia/simple-typescript-gulp#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.2.1"
+  }
+}
